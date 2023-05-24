@@ -6,11 +6,14 @@ This is a Weather App built using JavaScript that allows users to get the curren
 
 ## Features
 
+
 - Users can enter a location in the search bar to get the current weather conditions.
 - The app displays the temperature, weather conditions, wind speed, and humidity for the selected location.
 - Users can view the weather forecast for the next 5 days.
 
+
 ## Technologies
+
 
 This application was built using the following technologies:
 
@@ -19,7 +22,9 @@ This application was built using the following technologies:
 - JavaScript
 - OpenWeatherMap API
 
+
 ## Installation
+
 
 To run this application locally, please follow these steps:
 
@@ -28,7 +33,9 @@ To run this application locally, please follow these steps:
 
 Note: This app uses the OpenWeatherMap API, which requires an API key. Please obtain an API key from the OpenWeatherMap website and update the `.env` file with your API key.
 
+
 ## Usage
+
 
 To use this application, simply follow these steps:
 
@@ -36,6 +43,3 @@ To use this application, simply follow these steps:
 2. Click on the 'Search' button to get the current weather conditions for the selected location.
 3. The app will display the temperature, weather conditions, wind speed, and humidity for the selected location.
 4. Click on the 'Forecast' button to view the weather forecast for the next 5 days.
-
-
-## Licen
