@@ -4,7 +4,8 @@
 This is a Weather App built using JavaScript that allows users to get the current weather conditions and forecast for a given location.
 
 
-<!-- ## Live demo -->
+<!-- ## Live demo ()-->
+
 
 ## Features
 
