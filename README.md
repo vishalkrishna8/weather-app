@@ -38,6 +38,4 @@ To use this application, simply follow these steps:
 4. Click on the 'Forecast' button to view the weather forecast for the next 5 days.
 
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify this code as per your requirements.
+## Licen
